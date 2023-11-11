@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "592460446587",
+    "firebase_url": "https://yellow-road-rangers.firebaseio.com",
+    "project_id": "yellow-road-rangers",
+    "storage_bucket": "yellow-road-rangers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592460446587:android:7b414eee07f05da98b1bde",
+        "android_client_info": {
+          "package_name": "com.rudelabs.yb_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592460446587-p0qcouv3sd1730simiif55g2v3c9b6br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPrgF2Wj7GhBhJn8dHbG_h008LouAiyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592460446587-p0qcouv3sd1730simiif55g2v3c9b6br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592460446587:android:91d75ac7810cb4368b1bde",
+        "android_client_info": {
+          "package_name": "com.rudelabs.yrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592460446587-p0qcouv3sd1730simiif55g2v3c9b6br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPrgF2Wj7GhBhJn8dHbG_h008LouAiyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592460446587-p0qcouv3sd1730simiif55g2v3c9b6br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
